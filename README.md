@@ -1,8 +1,8 @@
 # Project Demo<br>
 ### weather<br>
 This a demo about weather.<br>
-* [Download Apk]()<br>
-* [Link to src]()<br>
+* [Download Apk](https://github.com/cc-shifo/demo/tree/master/weather "Apk")<br>
+* [Link to src](https://github.com/cc-shifo/firstrowcode/tree/master/14_CoolWeather "src")<br>
 ![](https://github.com/cc-shifo/demo/raw/master/wheather/weather.gif)<br>
 
 `Feature`<br>
@@ -18,8 +18,8 @@ This a demo about weather.<br>
 
 ### Material Design<br>
 This a demo about material design.<br>
-* [Download Apk]()<br>
-* [Link to src]()<br>
+* [Download Apk](https://github.com/cc-shifo/demo/tree/master/material "Apk")<br>
+* [Link to src](https://github.com/cc-shifo/firstrowcode/tree/master/12_3_2_NavigationViewTest "src")<br>
 ![](https://github.com/cc-shifo/demo/raw/master/material/material.gif)<br>
 
 `Feature`<br>
@@ -34,8 +34,8 @@ This a demo about material design.<br>
 
 ### Baidu Location Based Service<br>
 This a demo about LBS.<br>
-* [Download Apk]()<br>
-* [Link to src]()<br>
+* [Download Apk](https://github.com/cc-shifo/demo/tree/master/map "Apk")<br>
+* [Link to src](https://github.com/cc-shifo/firstrowcode/tree/master/11_4_LocationMap "src")<br>
 ![](https://github.com/cc-shifo/demo/raw/master/map/baidu-LBS.gif)<br>
 
 `Feature`<br>
