@@ -25,7 +25,7 @@ This a demo about material design.<br>
 `Feature`<br>
 >* ...<br>
 <br>
-`include`<br>
+`Include`<br>
 >* design<br>
 >* circleimageview<br>
 >* cardview<br>
@@ -41,5 +41,5 @@ This a demo about LBS.<br>
 `Feature`<br>
 >* ...<br>
 <br>
-`include`<br>
+`Include`<br>
 >* Baidu Map SDK
