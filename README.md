@@ -9,7 +9,7 @@ This a demo about weather.<br>
 >* weather infermation of most cities all over our country
 >* self-refresh service with alarm
 >* cache the weather data of json format in sharedPreference
->* download a picture from server and update home background when refreshing. Then cache it locally<br>
+>* download a picture from server and update home background when refreshing. Then cache it locally
 
 `include`<br>
 >* Okhttp, Gson
@@ -23,8 +23,8 @@ This a demo about material design.<br>
 ![](https://github.com/cc-shifo/demo/raw/master/material/material.gif)<br>
 
 `Feature`<br>
->* ...<br>
-<br>
+>* ...
+
 `Include`<br>
 >* design<br>
 >* circleimageview<br>
@@ -39,7 +39,7 @@ This a demo about LBS.<br>
 ![](https://github.com/cc-shifo/demo/raw/master/map/baidu-LBS.gif)<br>
 
 `Feature`<br>
->* ...<br>
-<br>
+>* ...
+
 `Include`<br>
 >* Baidu Map SDK
