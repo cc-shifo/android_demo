@@ -20,12 +20,12 @@ This a demo about material design.<br>
 * [Link to src]()<br>
 ![](https://github.com/cc-shifo/demo/raw/master/material/material.gif)<br>
 `Feature`<br>
-...<br>
+>* ...<br>
 `include`<br>
-*> design<br>
-*> circleimageview<br>
-*> cardview<br>
-*> Glide<br>
+>* design<br>
+>* circleimageview<br>
+>* cardview<br>
+>* Glide<br>
 
 ### Baidu Location Based Service<br>
 This a demo about LBS.<br>
@@ -33,6 +33,6 @@ This a demo about LBS.<br>
 * [Link to src]()<br>
 ![](https://github.com/cc-shifo/demo/raw/master/map/baidu-LBS.gif)<br>
 `Feature`<br>
-...<br>
+>* ...<br>
 `include`<br>
-*> Baidu Map SDK
+>* Baidu Map SDK
