@@ -10,7 +10,7 @@ This a demo about weather.<br>
 >* self-refresh service with alarm
 >* cache the weather data of json format in sharedPreference
 >* download a picture from server and update home background when refreshing. Then cache it locally<br>
-<br>
+
 `include`<br>
 >* Okhttp, Gson
 >* Glide
