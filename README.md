@@ -3,7 +3,7 @@
 This a demo about weather.<br>
 * [Download Apk](https://github.com/cc-shifo/demo/tree/master/weather "Apk")<br>
 * [Link to src](https://github.com/cc-shifo/firstrowcode/tree/master/14_CoolWeather "src")<br>
-![](https://github.com/cc-shifo/demo/raw/master/weather.gif)<br>
+![](https://github.com/cc-shifo/demo/raw/master/weather/weather.gif)<br>
 
 `Feature`<br>
 >* weather infermation of most cities all over our country
