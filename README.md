@@ -1,4 +1,5 @@
 # Project Demo<br>
+* Required SDK>=23
 ### weather<br>
 This a demo about weather.<br>
 * [Download Apk](https://github.com/cc-shifo/demo/tree/master/weather "Apk")<br>
