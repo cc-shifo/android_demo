@@ -13,7 +13,7 @@ This a demo about weather.<br>
 >* download a picture from server and update home background when refreshing. Then cache it locally
 
 `include`<br>
->* Okhttp, Gson
+>* Okhttp, Gson, AsynTask
 >* Glide
 
 
